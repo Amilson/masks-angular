@@ -25,7 +25,7 @@ or
 <input matInput id="cpf" required maskGen="999.999.999-99">
 <input matInput id="cnpj" required maskGen="99.999.999/9999-99">
 ````
-Ouput:
+### Ouput:
 ````
 (17)99616-0000
 +55(17)99616-0000
