@@ -35,4 +35,4 @@ or
 418.080.000-00
 41.880.000/0001-15
 ````
-Note: Ouput example is an aleatory test.
+Note: Output example is an aleatory test.
